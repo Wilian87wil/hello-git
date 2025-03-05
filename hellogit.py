@@ -1,2 +1,2 @@
 print("Hello git!")
-print("¿Que tal el curso")
+print("Quien escribio esto")
