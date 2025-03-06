@@ -1,1 +1,1 @@
-print("nuevo valor creado desde la main")
+print("nuevo valor creado desde la main, la main lo actualiza")
